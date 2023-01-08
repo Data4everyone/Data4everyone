@@ -6,7 +6,9 @@ Hola! Soy Marco Peña 👋
 - Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy) 
 * Matlab(con diferentes paquetes y toolbox para ánalisis matemático)
 
-Herramientas de BI: Power BI, Qlik
+Herramientas de BI: 
+- Power BI
+- Qlik
 
 Lenguaje de consulta: SQL
 
