@@ -2,7 +2,7 @@ Hola! Soy Marco Peña 👋
 
 🔎 Te cuento un poco sobre mi: Soy Data Analyst, he realizado un Master en Economía y computación, que después decidí seguir con el Doctorado para convertirme en Data Scientist. Debido a mi carrera previa de Ingeniería, puedo analizar datos desde una perspectiva operacional, comercial y administrativa, utilizando diferentes herramientas para procesar y visualizar datos.
 
-🌱 Lenguajes de programación que manejo: Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy), Matlab(con diferentes paquetes y toolbox para ánalisis matemático)
+🌱 Lenguajes de programación que manejo: -Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy), * Matlab(con diferentes paquetes y toolbox para ánalisis matemático)
 
 Herramientas de BI: Power BI, Qlik
 
