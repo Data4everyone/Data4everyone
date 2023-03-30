@@ -20,7 +20,7 @@ En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utili
 
 
 
-
+---
 
 ### Some numbers 🧠
 
