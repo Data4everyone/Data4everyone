@@ -17,3 +17,13 @@ Lenguaje de consulta: SQL
 En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utilizar como ejemplo o para prácticar y mi aplicación a mi tésis de maestría.
 
 👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
+
+
+
+
+
+### Some numbers 🧠
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Data4everyone&count_private=true&show_icons=true&theme=onedark" />
+</p>
