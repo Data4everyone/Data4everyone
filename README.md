@@ -33,7 +33,7 @@ En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utili
 </div>
 
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Data4everyone&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="hi" align="center">
