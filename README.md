@@ -12,13 +12,6 @@ BI tools:
 
 Query language: SQL
 
-📫 You can find me and connect on Linkedin: https://www.linkedin.com/in/marco-antonio-pe%C3%B1a-cubillos/ where I share content about all the data science topics I am contributing due to my research and so we grow together! 💡
-
-In my free time, I solve computing problems on Python and read tech articles.
-
-👏 Please give me a ⭐️ if you like my repositories!
-
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="400"/>
@@ -37,6 +30,11 @@ In my free time, I solve computing problems on Python and read tech articles.
 </div>
 
 <div id="hi" align="center">
+
+
+In my free time, I solve computing problems on Python and read tech articles.
+
+👏 Please give me a ⭐️ if you like my repositories!
 
 
 ---
