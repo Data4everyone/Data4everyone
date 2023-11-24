@@ -1,22 +1,22 @@
-Hola! Soy Marco Peña 👋
+Hi, I'm Marco Peña 👋
 
-🔎 Te cuento un poco sobre mi: Soy Data Analyst, he realizado un Master en Economía y computación, que después decidí seguir con el Doctorado. Debido a mi carrera previa de Ingeniería, puedo analizar datos desde una perspectiva operacional, comercial y administrativa, utilizando diferentes herramientas para procesar y visualizar datos.
+🔎 Let me tell you a bit about myself: I'm a Data Analyst, I have a Master's degree in Economics and Computer Science, which I later decided to pursue with a PhD. Due to my previous career in Engineering, I can analyse data from an operational, commercial and managerial perspective, using different tools to process and visualise data.
 
-🌱 Lenguajes de programación que manejo:
-- Python(con librerías para análisis de datos: Matplotlib, Seaborn, Pandas, NumPy) 
-* Matlab(con diferentes paquetes y toolbox para ánalisis matemático)
+🌱 Programming languages I handle:
+- Python(with libraries for data analysis: Matplotlib, Seaborn, Pandas, NumPy). 
+* Matlab(with different packages and toolboxes for mathematical analysis)
 
-Herramientas de BI: 
+BI tools: 
 - Power BI
 - Qlik
 
-Lenguaje de consulta: SQL
+Query language: SQL
 
-📫 Podes encontrarme y conectar en Linkedin: https://www.linkedin.com/in/marco-antonio-pe%C3%B1a-cubillos/ donde comparto contenido sobre todos los temas de ciencia de datos que voy aportando debido a mi investigación y asi crecemos juntos! 💡
+📫 You can find me and connect on Linkedin: https://www.linkedin.com/in/marco-antonio-pe%C3%B1a-cubillos/ where I share content about all the data science topics I am contributing due to my research and so we grow together! 💡
 
-En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utilizar como ejemplo o para prácticar y mi aplicación a mi tésis de maestría.
+In my free time, I solve computing problems on Python and read tech articles.
 
-👏 ¡Por favor, dame un ⭐️ si te gustan mis repositorios!
+👏 Please give me a ⭐️ if you like my repositories!
 
 
 
