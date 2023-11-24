@@ -20,6 +20,25 @@ En mis repositorios vas a encontrar proyectos sobre SQL y python que podes utili
 
 
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="400"/>
+</div>
+<div id="badges"  align="center">
+  <a href="https://www.linkedin.com/in/marco-antonio-pe%C3%B1a-cubillos">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/pxmarco">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div id="counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="hi" align="center">
+
+
 ---
 
 ### Some numbers 🧠
