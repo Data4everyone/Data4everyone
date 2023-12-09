@@ -1,6 +1,6 @@
 Hi, I'm Marco Peña 👋
 
-🔎 Let me tell you a bit about myself: I'm a Data Analyst, I have a Master's degree in Economics and Computer Science, which I later decided to pursue with a PhD. Due to my previous career in Engineering, I can analyse data from an operational, commercial and managerial perspective, using different tools to process and visualise data.
+🔎 Let me tell you a bit about myself: I'm a Data Scientist, I have a Master's degree in Economics and Computer Science, which I later decided to pursue with a PhD. Due to my previous career in Engineering, I can analyse data from an operational, commercial and managerial perspective, using different tools to process and visualise data.
 
  
  <div align="left">
